@@ -1,7 +1,6 @@
 # Mi-primera-pagina
 ---
 title: "Primera entrada — Introducción y Fundamentos de Programación"
-date: 2025-11-09
 description: Variables, tipos de datos, operadores, cadenas, E/S, funciones (incluida recursión) y un panorama de GitHub como plataforma.
 tags: [unidad1, fundamentos, python, variables, funciones, recursión, github]
 ---
